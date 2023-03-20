@@ -2,7 +2,7 @@ name: Deploy page
 
 on:
   push:
-    branches: ["main"]
+    branches: ["bullrich/client/docker-image"]
   pull_request:
 
 permissions:
